@@ -1,0 +1,58 @@
+
+body {
+    background-image: url("https://www.spisestuerne.dk/assets/bigs/2.jpg");
+}
+table {
+    color: black;
+    font-size: 15px;
+    font-family: "Avenir Next Condensed";
+    background-color: rgba(255,255,255,0.67);
+
+}
+
+nav {
+    color: black;
+    font-size: 30px;
+    font-family: "Avenir Next Condensed";
+}
+
+text {
+    color: black;
+    text-shadow: 5px 2px white;
+    font-size: 40px;
+    font-family: "Avenir Next Condensed";
+}
+
+h1 {
+    color: black;
+    text-shadow: 5px 2px white;
+    font-size: 20px;
+    font-family: "Avenir Next Condensed";
+    font-weight: bold;
+    background-color: rgba(255,255,255,0.67);
+}
+
+label {
+    color: black;
+    text-shadow: 5px 2px white;
+    font-size: 20px;
+    font-family: "Avenir Next Condensed";
+}
+
+button {
+    font-family: "Avenir Next Condensed";
+    font-size: 20px;
+}
+
+li {
+    font-family: "Avenir Next Condensed";
+    font-size: 16px;
+}
+
+p {
+    font-family: "Avenir Next Condensed";
+    color: black;
+    font-size: 20px;
+
+
+}
